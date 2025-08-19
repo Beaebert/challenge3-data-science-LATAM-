@@ -1,5 +1,5 @@
-## Nuevo analisis de datos para realizar un modelo predictivo
-# Challenge de la capacitación de Data Science de Alura LATAM - ONE Education (Oracle)
+# Nuevo analisis de datos para realizar un modelo predictivo
+## Challenge de la capacitación de Data Science de Alura LATAM - ONE Education (Oracle)
 Es continuación del Challange2 Data Science LATAM, correspondiente a la misma capacitación. Se continua el notebook anteriormente trabajado.
 
 Se busca utilizar los datos con modelos de Machine Learning para poder predecir la baja y continuidad de clientes.
